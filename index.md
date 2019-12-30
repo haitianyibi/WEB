@@ -16,7 +16,7 @@
 
 # BT
 
-[dy2018](https://www.dy2018.com/)	
+[dy2018](https://www.dy2018.com/)	[BTTIANTANG](https://www.bttiantangok.com/)	[BTDX8](https://www.btdx8.com/torrent/xc_2019-2.html)	[BTBTDY](http://www.btbtdy.me/play/19958-0-0.html)	[BTba](https://www.btba.cc/)	[6btbtt](http://www.6btbtt.com/)	[btfx](http://www.btfx.net/)	
 
 # learn
 
