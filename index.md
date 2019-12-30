@@ -28,7 +28,7 @@
 
 # search
 
-[rrkee](https://rrkee.com/)			[baidu](https://www.baidu.com/)			~~[Google](http://google.com/)~~		
+[rrkee](https://rrkee.com/)			[baidu](https://www.baidu.com/)			~~[Google](http://google.com/)~~		[Mail](https://go.mail.ru/?fm=1) 		
 
 # NEWS
 
@@ -38,4 +38,3 @@
 
 [GFYCAT](https://gfycat.com/)			
 
-![HoarseTheseClam](C:\Users\Administrator\Desktop\HoarseTheseClam.webp)
