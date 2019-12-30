@@ -20,7 +20,7 @@
 
 # learn
 
-[RUNOOB](https://www.runoob.com/)			[Git](https://gitforwindows.org/)				[W3school](https://www.w3school.com.cn/index.html)			[itheima](http://yun.itheima.com/course?hm)			[leetcode](https://leetcode-cn.com/problemset/all/)			[c](http://c.biancheng.net/cpp/)	[jekyll](http://jekyllcn.com/docs/home/)	
+[RUNOOB](https://www.runoob.com/)			[Git](https://gitforwindows.org/)				[W3school](https://www.w3school.com.cn/index.html)			[itheima](http://yun.itheima.com/course?hm)			[leetcode](https://leetcode-cn.com/problemset/all/)			[c](http://c.biancheng.net/cpp/)	[jekyll](http://jekyllcn.com/docs/home/)	[videocopilot](https://videocopilot.net.cn/)	
 
 # Forum
 
