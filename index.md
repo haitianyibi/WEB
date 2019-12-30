@@ -28,7 +28,7 @@
 
 # search
 
-[rrkee](https://rrkee.com/)			[baidu](https://www.baidu.com/)			~~[Google](http://google.com/)~~		[Mail](https://go.mail.ru/?fm=1) 		[dogedoge](https://www.dogedoge.com/)	
+[rrkee](https://rrkee.com/)			[baidu](https://www.baidu.com/)			~~[Google](http://google.com/)~~		[Mail](https://go.mail.ru/?fm=1) 		[dogedoge](https://www.dogedoge.com/)	[bing](https://cn.bing.com/)	[sogou](https://www.sogou.com/)	[magi](https://magi.com/)	[wolframalpha](https://www.wolframalpha.com/)	
 
 # NEWS
 
