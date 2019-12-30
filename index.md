@@ -1,30 +1,28 @@
-## Welcome to GitHub Pages
+# Soft
 
-You can use the [editor on GitHub](https://github.com/haitianyibi/WEB/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Java jdk](https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html#javasejdk)        [IDM](http://www.internetdownloadmanager.com/)	[GreasyFork](https://greasyfork.org/zh-CN)	[AdGuard](https://adguard.com/zh_cn/welcome.html)	[Visualstudio](https://code.visualstudio.com/)	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# MarkDown
 
-### Markdown
+[GFM](https://guides.github.com/features/mastering-markdown/)		[Typora](https://typora.io/)	[mermaid](https://mermaid-js.github.io/mermaid/#/)	[MarkDown](http://www.markdown.cn/)	 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Android
 
-```markdown
-Syntax highlighted code block
+[developer](https://developer.android.google.cn/)	
 
-# Header 1
-## Header 2
-### Header 3
+# Movie in line
 
-- Bulleted
-- List
+[bilibili](https://www.bilibili.com/)	
 
-1. Numbered
-2. List
+# BT
 
-**Bold** and _Italic_ and `Code` text
+[dy2018](https://www.dy2018.com/)	
 
-[Link](url) and ![Image](src)
-```
+# learn
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[RUNOOB](https://www.runoob.com/)	[Git](https://gitforwindows.org/)		[W3school](https://www.w3school.com.cn/index.html)	[itheima](http://yun.itheima.com/course?hm)	[leetcode](https://leetcode-cn.com/problemset/all/)	
+
+# Forum
+
+[52pojie](https://www.52pojie.cn/forum.php)	[csdn](https://www.csdn.net/)	
 
