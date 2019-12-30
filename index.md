@@ -44,3 +44,6 @@
 
 [GFYCAT](https://gfycat.com/)			
 
+# funny
+
+[渣男：说话的艺术](https://lovelive.tools/)	[全历史](https://www.allhistory.com/)	[假装升级](https://fakeupdate.net/windows98l/)	[中国妖怪](http://www.cbaigui.com/)	[小鸡词典](https://jikipedia.com/)	[utovr](https://www.utovr.com/)	 
