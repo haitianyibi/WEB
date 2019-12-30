@@ -1,10 +1,10 @@
 # Soft
 
-[Java jdk](https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html#javasejdk)        [IDM](http://www.internetdownloadmanager.com/)	[GreasyFork](https://greasyfork.org/zh-CN)	[AdGuard](https://adguard.com/zh_cn/welcome.html)	[Visualstudio](https://code.visualstudio.com/)	[Firefox Browser](https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org)	
+[Java jdk](https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html#javasejdk)   		     [IDM](http://www.internetdownloadmanager.com/)			[GreasyFork](https://greasyfork.org/zh-CN)			[AdGuard](https://adguard.com/zh_cn/welcome.html)			[Visualstudio](https://code.visualstudio.com/)			[Firefox Browser](https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org)	
 
 # MarkDown
 
-[GFM](https://guides.github.com/features/mastering-markdown/)		[Typora](https://typora.io/)	[mermaid](https://mermaid-js.github.io/mermaid/#/)	[MarkDown](http://www.markdown.cn/)	 
+[GFM](https://guides.github.com/features/mastering-markdown/)				[Typora](https://typora.io/)			[mermaid](https://mermaid-js.github.io/mermaid/#/)			[MarkDown](http://www.markdown.cn/)	 
 
 # Android
 
@@ -12,7 +12,7 @@
 
 # Movie in line
 
-[bilibili](https://www.bilibili.com/)	~~[youtube](http://youtube.com/)~~	[qq](https://v.qq.com/)	[netflix](https://www.netflix.com/cn/)	[imdb](https://www.imdb.com/)	[youku](https://youku.com/)	[tudou](https://tudou.com/)	
+[bilibili](https://www.bilibili.com/)			~~[youtube](http://youtube.com/)~~			[qq](https://v.qq.com/)			[netflix](https://www.netflix.com/cn/)		[imdb](https://www.imdb.com/)		[youku](https://youku.com/)			[tudou](https://tudou.com/)	
 
 # BT
 
@@ -20,22 +20,22 @@
 
 # learn
 
-[RUNOOB](https://www.runoob.com/)	[Git](https://gitforwindows.org/)		[W3school](https://www.w3school.com.cn/index.html)	[itheima](http://yun.itheima.com/course?hm)	[leetcode](https://leetcode-cn.com/problemset/all/)	[c](http://c.biancheng.net/cpp/)	[jekyll](http://jekyllcn.com/docs/home/)	
+[RUNOOB](https://www.runoob.com/)			[Git](https://gitforwindows.org/)				[W3school](https://www.w3school.com.cn/index.html)			[itheima](http://yun.itheima.com/course?hm)			[leetcode](https://leetcode-cn.com/problemset/all/)			[c](http://c.biancheng.net/cpp/)	[jekyll](http://jekyllcn.com/docs/home/)	
 
 # Forum
 
-[52pojie](https://www.52pojie.cn/forum.php)	[csdn](https://www.csdn.net/)	
+[52pojie](https://www.52pojie.cn/forum.php)			[csdn](https://www.csdn.net/)	
 
 # search
 
-[rrkee](https://rrkee.com/)	[baidu](https://www.baidu.com/)	~~[Google](http://google.com/)~~		
+[rrkee](https://rrkee.com/)			[baidu](https://www.baidu.com/)			~~[Google](http://google.com/)~~		
 
 # NEWS
 
-[Weibo](https://weibo.com/login.php)	[sina](https://www.sina.com.cn/)	[qq](https://www.qq.com/?fromdefault)	
+[Weibo		](https://weibo.com/login.php)	[sina](https://www.sina.com.cn/)			[qq](https://www.qq.com/?fromdefault)	
 
 # GIF
 
-[GFYCAT](https://gfycat.com/)	
+[GFYCAT](https://gfycat.com/)			
 
 ![HoarseTheseClam](C:\Users\Administrator\Desktop\HoarseTheseClam.webp)
