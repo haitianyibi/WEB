@@ -10,6 +10,12 @@
 
 [developer](https://developer.android.google.cn/)	
 
+# Java
+
+[java](https://www.oracle.com/technetwork/java/index-jsp-135888.html)	
+
+
+
 # Movie in line
 
 [bilibili](https://www.bilibili.com/)			~~[youtube](http://youtube.com/)~~			[qq](https://v.qq.com/)			[netflix](https://www.netflix.com/cn/)		[imdb](https://www.imdb.com/)		[youku](https://youku.com/)			[tudou](https://tudou.com/)	
