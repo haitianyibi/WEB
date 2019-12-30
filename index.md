@@ -28,7 +28,7 @@
 
 # search
 
-[rrkee](https://rrkee.com/)			[baidu](https://www.baidu.com/)			~~[Google](http://google.com/)~~		[Mail](https://go.mail.ru/?fm=1) 		
+[rrkee](https://rrkee.com/)			[baidu](https://www.baidu.com/)			~~[Google](http://google.com/)~~		[Mail](https://go.mail.ru/?fm=1) 		[dogedoge](https://www.dogedoge.com/)	
 
 # NEWS
 
