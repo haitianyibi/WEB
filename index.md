@@ -22,7 +22,7 @@
 
 # BT
 
-[dy2018](https://www.dy2018.com/)	[BTTIANTANG](https://www.bttiantangok.com/)	[BTDX8](https://www.btdx8.com/)	[BTBTDY](http://www.btbtdy.me/play/19958-0-0.html)	[BTba](https://www.btba.cc/)	[6btbtt](http://www.6btbtt.com/)	[btfx](http://www.btfx.net/)	
+[dy2018](https://www.dy2018.com/)	[BTTIANTANG](https://www.bttiantangok.com/)	[BTDX8](https://www.btdx8.com/)	[BTBTDY](http://www.btbtdy.me/)	[BTba](https://www.btba.cc/)	[6btbtt](http://www.6btbtt.com/)	[btfx](http://www.btfx.net/)	
 
 # learn
 
