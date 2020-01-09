@@ -2,11 +2,15 @@
 
 [text](./text.md)
 
-[2](1.mp3)
+[text](/text.md)
 
-[3](/1.mp3)
+[text](text.md)
 
-[4](./mp3)
+[2](./markdown-cheatsheet-online.pdf)
+
+[3](/markdown-cheatsheet-online.pdf)
+
+[4](markdown-cheatsheet-online.pdf)
 
 # Soft
 
