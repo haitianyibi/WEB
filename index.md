@@ -2,6 +2,12 @@
 
 [text](./text.md)
 
+[2](1.mp3)
+
+[3](/1.mp3)
+
+[4](./mp3)
+
 # Soft
 
 [Java jdk](https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html#javasejdk)   		     [IDM](http://www.internetdownloadmanager.com/)			[GreasyFork](https://greasyfork.org/zh-CN)			[AdGuard](https://adguard.com/zh_cn/welcome.html)			[Visualstudio](https://code.visualstudio.com/)			[Firefox Browser](https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org)	[Notepad++](https://notepad-plus-plus.org/)  
