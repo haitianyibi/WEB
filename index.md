@@ -1,16 +1,16 @@
 
 
-[text](./text.md)
+[text](./1/text.md)
 
-[text](/text.md)
+[text](/1/text.md)
 
-[text](text.md)
+[text](1/text.md)
 
-[2](./markdown-cheatsheet-online.pdf)
+[2](./1/markdown-cheatsheet-online.pdf)
 
-[3](/markdown-cheatsheet-online.pdf)
+[3](/1/markdown-cheatsheet-online.pdf)
 
-[4](markdown-cheatsheet-online.pdf)
+[4](1/markdown-cheatsheet-online.pdf)
 
 # Soft
 
