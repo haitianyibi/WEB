@@ -1,6 +1,6 @@
 ### MarkDown
 
-+++
+---
 
 [GFM](https://guides.github.com/features/mastering-markdown/)				[Typora](https://typora.io/)			[mermaid](https://mermaid-js.github.io/mermaid/#/)			[MarkDown](http://www.markdown.cn/)	 
 
